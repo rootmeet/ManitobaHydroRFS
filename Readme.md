@@ -22,4 +22,5 @@
 <p>•	Identify opportunities to transition repeatable, operational activities to Digital and Technology operation teams</p>
 <p></p>
 <p><b>Demonstration: <a href="https://github.com/rootmeet/ManitobaHydroRFS/blob/main/ScopeOfServices.md">Scope of Services</a></b></p>
+<p><b>Sample project schedule is created with tasks and timeline : : <a href="https://github.com/rootmeet/ManitobaHydroRFS/blob/main/ProjectSchTask.md">Sample project schedule is created with tasks and timeline</a></b></p>
 </div>
