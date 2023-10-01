@@ -20,4 +20,4 @@
 <li><strong>Issue Reporting</strong>: Critical issues that may affect systems are identified and promptly reported to management using outage management system. For critical issues technical helps taken using vendor tickting system.</li>
 <li><strong>Operational Transition</strong>: Opportunities to transition repeatable, operational activities to Digital and Technology operation teams are identified and facilitated using Power Automate for workflow automation and Azure Logic Apps for integration</li>
 </ol>
-<p>Please note that specific technical tools and methods may vary depending on the Manitoba Hydro's setup and preferences. The provided descriptions offer a general framework for my understanding how these services can be technically implemented.</p>
+<p>Please note that specific technical tools and methods may vary depending on the Manitoba Hydro's setup and preferences. The provided descriptions offer a general framework for my understanding how these services can be technically implemented.</p><p><img src="https://github.com/rootmeet/ManitobaHydroRFS/blob/main/d5.png" /></p>
