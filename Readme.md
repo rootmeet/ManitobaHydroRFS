@@ -21,5 +21,5 @@
 <p>•	Inform management of critical issues that may affect systems</p>
 <p>•	Identify opportunities to transition repeatable, operational activities to Digital and Technology operation teams</p>
 <p></p>
-<p><h3>Demonstration: <a href="https://github.com/rootmeet/ManitobaHydroRFS/blob/main/ScopeOfServices.md">Scope of Services</a></h3></p>
+<p><b>Demonstration: <a href="https://github.com/rootmeet/ManitobaHydroRFS/blob/main/ScopeOfServices.md">Scope of Services</a></b></p>
 </div>
