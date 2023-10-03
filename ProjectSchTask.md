@@ -113,3 +113,4 @@
 </ul>
 </li>
 </ol>
+<p><img src="https://github.com/rootmeet/ManitobaHydroRFS/blob/main/schedule.png" /></p>
